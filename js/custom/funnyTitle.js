@@ -1,0 +1,1 @@
+"use strict";var titleTime,OriginTitle=document.title;document.addEventListener("visibilitychange",function(){document.hidden||($('[rel="icon"]').attr("href","/img/trhx2.png"),document.title="ヾ(Ő∀Ő3)ノ你帅就回来！"+OriginTitle,titleTime=setTimeout(function(){document.title=OriginTitle},2e3))});
